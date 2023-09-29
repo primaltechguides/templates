@@ -16,5 +16,15 @@ link5: https://www.manomano.de/catalogue/p/rf-bridge-wifi-bridge-433-mhz-ersatz-
 
 **This product is discontinued, sellers now ship the RFBridgeR2 white model which does not support flashing Portisch firmware**
 
+## R2.2 - Tasmota Flashing Guide | Direct Hack Mod | Linking to Home Assistant
+
+A guide on how to flash Tasmota to the R2.2 RF Bridge.
+
+How to perform the Direct Hack Mod to enable more protocols
+
+How to Link Sonoff RF Bridge to Home Assistant using MQTT
+
+[![Sonoff RF Bridge Tasmota | Direct Hack Mod Tutorial | Linking to Home Assistant MQTT](https://img.youtube.com/vi/k-FLN1cM4jk/0.jpg)](https://www.youtube.com/watch?v=k-FLN1cM4jk)
+
 ## Serial Flashing
 Complete guide on [Tasmota Docs](https://tasmota.github.io/docs/devices/Sonoff-RF-Bridge-433)
